@@ -1,0 +1,1 @@
+Put the path to the dir you would like to traverse through in the variable video_directory.
